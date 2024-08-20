@@ -1,0 +1,26 @@
+[
+    {
+        "model": "app_web.comuna",
+        "pk": 1,
+        "fields": {
+            "comuna": "Santiago",
+            "region": 1
+        }
+    },
+    {
+        "model": "app_web.comuna",
+        "pk": 2,
+        "fields": {
+            "comuna": "Ñuñoa",
+            "region": 1
+        }
+    },
+    {
+        "model": "app_web.comuna",
+        "pk": 3,
+        "fields": {
+            "comuna": "Providencia",
+            "region": 1
+        }
+    }
+]

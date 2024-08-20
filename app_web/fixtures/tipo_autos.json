@@ -1,0 +1,24 @@
+
+[
+    {
+        "model": "app_web.tipoauto",
+        "pk": 1,
+        "fields": {
+            "tipo_auto": "Sedán"
+        }
+    },
+    {
+        "model": "app_web.tipoauto",
+        "pk": 2,
+        "fields": {
+            "tipo_auto": "SUV"
+        }
+    },
+    {
+        "model": "app_web.tipoauto",
+        "pk": 3,
+        "fields": {
+            "tipo_auto": "Camioneta"
+        }
+    }
+]

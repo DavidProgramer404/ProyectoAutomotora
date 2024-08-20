@@ -139,6 +139,7 @@ STATICFILES_DIRS = [
 ]
 
 # login logout
+AUTH_USER_MODEL = 'app_web.Usuario'
 
 LOGIN_REDIRECT_URL = '/'
 LOGOUT_REDIRECT_URL = '/'

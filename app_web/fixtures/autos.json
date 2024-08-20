@@ -1,0 +1,47 @@
+[
+    {
+        "model": "app_web.auto",
+        "pk": 1,
+        "fields": {
+            "nombre": "Toyota Corolla",
+            "nro_asiento": 5,
+            "anio": 2020,
+            "marca": "Toyota",
+            "nro_venta": 100,
+            "precio": 15000,
+            "tipo_auto": 1,
+            "comuna": 1,
+            "usuario": 1
+        }
+    },
+    {
+        "model": "app_web.auto",
+        "pk": 2,
+        "fields": {
+            "nombre": "Honda Civic",
+            "nro_asiento": 5,
+            "anio": 2019,
+            "marca": "Honda",
+            "nro_venta": 80,
+            "precio": 14000,
+            "tipo_auto": 2,
+            "comuna": 2,
+            "usuario": 2
+        }
+    },
+    {
+        "model": "app_web.auto",
+        "pk": 3,
+        "fields": {
+            "nombre": "Ford F-150",
+            "nro_asiento": 5,
+            "anio": 2021,
+            "marca": "Ford",
+            "nro_venta": 50,
+            "precio": 30000,
+            "tipo_auto": 3,
+            "comuna": 3,
+            "usuario": 3
+        }
+    }
+]
